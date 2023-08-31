@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer');
 
 const botArgs = {
-    host: 'localhost',
-    port: '12345',
+    host: 'sinhtonkoluatle.aternos.me',
+    port: '24643',
     username: "Hello_world",
     version: '1.8.9'
 };
